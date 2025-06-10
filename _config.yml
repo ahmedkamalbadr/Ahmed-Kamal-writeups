@@ -1,0 +1,12 @@
+title: "Ahmed Kamal – Write‑ups"
+email: youremail@example.com
+description: "Write‑ups تغطي التحديات بتاعتك (HTB, Vulnhub, TryHackMe...)"
+baseurl: "" 
+url: "https://ahmedkamalbadr.github.io" 
+theme: "minimal-mistakes-jekyll"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
